@@ -1,0 +1,7 @@
+.container {
+	width: 100%;
+	max-width: 1728px;
+	margin: 0 auto;
+	padding: 0 clamp(10px, 3vw, 30px);
+}
+
