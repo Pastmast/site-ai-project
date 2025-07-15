@@ -1,0 +1,7 @@
+Многостраничный сайт про нейросети (AI) c адаптивной/кроссбраузерной вёрсткой на сборке vite с применением фреймворка Vue 3 (Composition API), Vue-Router, JavaScript, SCSS.
+
+Макет самостоятельно создан в Figma с нуля (cсылка на макет: https://www.figma.com/design/zPfu7JBkM8dy7MlQB0NK5z/Site-GPT?node-id=0-1&p=f&t=f8PfplGdWOjfMfPe-0).
+
+Для запуска нужно открыть папку с проектом в редакторе кода, установить зависимости (в терминале прописать npm install) и прописать в терминале npm run dev.
+
+Ссылка на GitHub Pages:
