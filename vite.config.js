@@ -5,6 +5,7 @@ import vue from '@vitejs/plugin-vue';
 
 // https://vite.dev/config/
 export default defineConfig({
+	base: '/site-ai-project/',
 	plugins: [vue()],
 	resolve: {
 		alias: {
